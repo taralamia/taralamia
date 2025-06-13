@@ -19,8 +19,8 @@
       </ul>
     </td>
     <td>
-  <img src="https://github.com/taralamia/taralamia/blob/master/girl-coding.gif?raw=true" alt="Girl Coding" width="400">
-</td>
+      <img src="https://github.com/taralamia/taralamia/blob/master/girl-coding.gif?raw=true" alt="Girl Coding" width="250" style="max-width:100%;">
+    </td>
   </tr>
 </table>
 
