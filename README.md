@@ -10,7 +10,7 @@
     <td>
       <h2>🚀 About Me</h2>
       <ul>
-        <li>🔭 I’m currently working on <strong>Quash - a Node.js backend project </strong></li>
+        <li>🔭 I’m currently working on <strong>Arkline - a Python/FastAPI backend for a multi-tenant marketing engine </strong></li>
         <li>🌱 I’m currently learning <strong> Node.js backend architecture with TypeScript, RESTful API best practices, System design, and MLOps workflows using TensorFlow, PyTorch</strong></li>
         <li>🤝 I’m looking for collaborations on <strong>Startup Projects — especially in backend, AI, or dev tools.</strong></li>
         <li>💬 Ask me about <strong>Data structure, Algorithm, OOP, SQL, JavaScript, Java, Python </strong></li>
