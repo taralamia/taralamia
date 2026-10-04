@@ -2,7 +2,7 @@
 <h3 align="center">Evolving Developer — Fueled by Curiosity & Coffee ☕</h3>
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taralamia&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
+   <img src="https://komarev.com/ghpvc/?username=taralamia&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
 </p>
 
 <table>
